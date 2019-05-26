@@ -1,0 +1,15 @@
+{
+  "name": "notification-redis",
+  "version": "1.0.0",
+  "description": "Notification using redis pub/sub. Receiver module.",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Gokul",
+  "license": "ISC"
+}
